@@ -1,3 +1,4 @@
+// use CSS id like this: id="scrollPercentage" and set 0% where to display the increase, e.g. <a href="#" id="scrollPercentage">0%</a>
 function handleScroll() {
 var documentHeight = document.documentElement.scrollHeight;
 var viewportHeight = window.innerHeight;
